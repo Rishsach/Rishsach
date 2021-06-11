@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Frontend and Machine learning**
 
+- 👯 I’m love to practice DSA **on GeeksforGeeks and LeetCode.**
+
 - 📫 How to reach me **rishabhsachdeva775@gmail.com**
 
 - ⚡ Fun fact **I love to edit the Videos in my Free time.**
