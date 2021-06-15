@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frontend and Machine learning**
 
-- 👯 I’m love to practice DSA **on GeeksforGeeks and LeetCode.**
+- 👯 I’m love to practice DSA **on GeeksforGeeks , HackerRank and LeetCode.**
 
 - 📫 How to reach me **rishabhsachdeva775@gmail.com**
 
