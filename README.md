@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh Sachdeva</h1>
-<h3 align="center">A passionate Web Developer and ML Explorer.</h3>
+<h3 align="center">A passionate Web Developer and Coder.</h3>
 
-- 🌱 I’m currently learning  ** Full Stack Web devleopment and Machine learning**
+- 🌱 I’m currently learning  ** Full Stack Web devleopment in React JS**
 
 - 👯 I’m love to practice DSA **on GeeksforGeeks , HackerRank and LeetCode.**
 
