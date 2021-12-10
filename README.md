@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rishabhsachdeva775@gmail.com**
 
-- ⚡ Fun fact **I love to edit the Videos in my Free time.**
+- ⚡ Fun fact **I love to edit Videos in my Free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
