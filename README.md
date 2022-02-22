@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning  ** Full Stack Web devleopment in React JS**
 
-- 👯 I’m love to practice DSA **on GeeksforGeeks , HackerRank and LeetCode.**
+- 👯 Passionate in coding  **on GeeksforGeeks , HackerRank and LeetCode.**
 
 - 📫 How to reach me **rishabhsachdeva775@gmail.com**
 
